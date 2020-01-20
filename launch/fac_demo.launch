@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+
+<launch>
+    <node pkg="fac_demo" type="fac_demo" name="fac_demo" output="screen" />
+</launch>
