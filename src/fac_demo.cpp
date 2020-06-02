@@ -37,13 +37,9 @@ class fac_demo{
     double station1_y = 3.68106130164;
 
     double station2_x = 5.97245308241;
-//    double station2_x = 6.0663973241;
     double station2_y = 2.82131053684;
-//    double station2_y = 2.74343378803;
     double station2_z = -0.997553360049;
-//    double station2_z = -0.999862558909;
     double station2_w = 0.0699091829106;
-//    double station2_w = 0.01657900156;
 
     double station3_x = 2.58638990116;
     double station3_y = 2.3601986901;
@@ -160,10 +156,6 @@ class fac_demo{
       }
     }
 };
-
-
-
-
 
 
 int main(int argc, char **argv){
